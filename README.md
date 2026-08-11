@@ -1,35 +1,105 @@
-# Olá, eu sou Yuri! 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSouzaDev&layout=compact" alt="github status" min-width="250px" max-width="250px" width="250px" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriSouzaDev&theme=dark&hide_border=false" alt="Github stats" min-width="250px" max-width="250px" width="250px" align="right">
-<p align="left">- 📚 Estudante de Ciências da computação</p>
-<p align="left">- 🖥️ Desenvolvedor FrontEnd</p>
-<p align="left">- 🚀 Em desenvolvimento de habilidades full stack e mobile</p>
+# Olá, eu sou Yuri Souza 👋
+
+**Full Stack Developer focado em back-end**, construindo produtos, sistemas distribuídos e contribuindo com projetos open source.
+
+* 🚀 Full Stack Developer construindo o **b7cloud** — plataforma brasileira de cloud hosting com VPS, domínios, hospedagem gerenciada para WordPress/Magento, DNS e billing.
+* 🧩 Trabalho com arquitetura back-end em **Laravel**, utilizando uma estrutura modular (`App\Modules`), com front-end em **React/TypeScript**.
+* 🛠️ Contribuidor e líder técnico na comunidade **He4rt Developers**, atuando em code review, arquitetura e desenvolvimento de features.
+* ✍️ Às vezes escrevo sobre desenvolvimento e tecnologia no **dev.to**.
+* 📚 Estudando **Domain-Driven Design (DDD)** e sua aplicação em sistemas reais de produção.
+
 <br />
 
-## 🛠 Tecnologias que mais uso no meu dia a dia
+## 💼 Onde estou aplicando isso
+
+### ☁️ b7cloud
+
+Plataforma de cloud hosting com uma arquitetura orientada a serviços e integrações com múltiplos provedores.
+
+* Provisionamento multi-provider de VPS (**Contabo / Hostinger**)
+* Billing integrado com **Asaas**
+* Gerenciamento de **DNS e domínios**
+* Console SSH no navegador com **Node.js + WebSocket + xterm.js**
+* Pipeline de métricas utilizando **Telegraf → RabbitMQ → Laravel**
+* Processamento assíncrono com workers e filas
+* Infraestrutura containerizada com **Docker**
+
+### 💳 money-asaas
+
+Pacote **open source para Laravel**, inspirado na experiência do Laravel Cashier, para integração com o gateway de pagamentos **Asaas**.
+
+O projeto busca abstrair a comunicação com o gateway e fornecer uma API mais idiomática para aplicações Laravel.
+
+### 🤝 He4rt Developers
+
+Atuação no desenvolvimento da plataforma da comunidade, contribuindo principalmente com:
+
+* Code review
+* Arquitetura e implementação de features
+* Laravel
+* Filament
+* Livewire
+* Manutenção e evolução da plataforma
+
+<br />
+
+## 🛠 Stack principal
+
 <div style="display: inline-block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-    <img align="center" alt="react-query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
-    <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</div><br />
 
-## 🛠 Tecnologias que estou estudando
-<div style="display: inline-block gap: 5px">
-    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> 
-</div><br />
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-## Últimos projetos
-- [Nailton Ferreira - Corretor de imóveis](https://www.nailtonferreira.com.br/)
-- [É por amor - ONG](https://www.eporamor.org.br/)
+<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br />
+
+### 🔧 Também trabalho com
+
+**Backend:** PHP, Laravel, REST APIs, filas, workers, WebSockets
+
+**Frontend:** React, TypeScript, Vite, Tailwind CSS
+
+**Infraestrutura:** Docker, Linux, VPS, CI/CD, RabbitMQ
+
+**Databases:** PostgreSQL, MySQL
+
+**Arquitetura:** Modular Monolith, DDD, integração entre serviços, processamento assíncrono
+
+<br />
+
+## 🌱 Estudando
+
+<div style="display: inline-block">
+
+<img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+</div>
+
+Atualmente estudando **Go** com foco em concorrência, sistemas distribuídos, infraestrutura e desenvolvimento de serviços de alta performance.
+
+<br />
+
+## 📝 Conteúdo & comunidade
+
+* 📖 Blog técnico: [dev.to](https://dev.to/yuri_os)
+* 🤝 Comunidade: [He4rt Developers](https://heartdevs.com)
+
+## 📫 Contato
+
+Aberto a conversas sobre **back-end, arquitetura Laravel, DDD, sistemas distribuídos e open source**.
