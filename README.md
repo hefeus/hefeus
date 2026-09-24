@@ -24,7 +24,7 @@ Plataforma de cloud hosting com uma arquitetura orientada a serviços e integra�
 * Processamento assíncrono com workers e filas
 * Infraestrutura containerizada com **Docker**
 
-### 💳 money-asaas
+### 💳 asaas-sdk
 
 Pacote **open source para Laravel**, inspirado na experiência do Laravel Cashier, para integração com o gateway de pagamentos **Asaas**.
 
