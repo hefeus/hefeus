@@ -16,8 +16,8 @@
 
 Plataforma de cloud hosting com uma arquitetura orientada a serviços e integrações com múltiplos provedores.
 
-* Provisionamento multi-provider de VPS (**Contabo / Hostinger**)
-* Billing integrado com **Asaas**
+* Provisionamento multi-provider de VPS
+* Billing integrado
 * Gerenciamento de **DNS e domínios**
 * Console SSH no navegador com **Node.js + WebSocket + xterm.js**
 * Pipeline de métricas utilizando **Telegraf → RabbitMQ → Laravel**
